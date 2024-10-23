@@ -33,3 +33,17 @@ To set up the project locally, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/algorithm-visualizer.git
+2. **Navigate to the project directory:**:
+   ```bash
+   cd algorithm-visualizer
+3.**Set up a local server:**
+- You can use tools like XAMPP or MAMP to run PHP applications locally.
+- Place the project folder in the htdocs directory (for XAMPP) or the www directory (for MAMP).
+4.**Access the application:**
+  -Open your web browser and go to http://localhost/algorithm-visualizer to see the application in action.
+## Usage
+1. **Select an Algorithm**: Choose the algorithm you want to visualize from the dropdown menu.
+2. **Input Data**: Depending on the algorithm, input the necessary data (e.g., an array of numbers).
+3. **Start Visualization**: Click the "Visualize" button to begin the algorithm execution.
+4. **Step Through Execution**: Use the "Next" button to step through each stage of the algorithm.
+## Contributing
