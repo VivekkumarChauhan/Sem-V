@@ -47,10 +47,10 @@ To set up the project locally, follow these steps:
 3. **Start Visualization**: Click the "Visualize" button to begin the algorithm execution.
 4. **Step Through Execution**: Use the "Next" button to step through each stage of the algorithm.
 ## Contributing
-Contributions are welcome! If you have suggestions for improvements or new algorithms to add, feel free to create an issue or submit a pull request.
-1.Fork the repository.
-2.Create a new branch (git checkout -b feature/YourFeature).
-3.Make your changes.
-4.Commit your changes (git commit -m 'Add your feature').
-5.Push to the branch (git push origin feature/YourFeature).
-6.Create a pull request.
+  **Contributions are welcome! If you have suggestions for improvements or new algorithms to add, feel free to create an issue or submit a pull request.**
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature/YourFeature).
+3. Make your changes.
+4. Commit your changes (git commit -m 'Add your feature').
+5. Push to the branch (git push origin feature/YourFeature).
+6. Create a pull request.
