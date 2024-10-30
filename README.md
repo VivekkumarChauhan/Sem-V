@@ -32,7 +32,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/algorithm-visualizer.git
+   git clone https://github.com/VivekkumarChauhan/Sem-V.git
 2. **Navigate to the project directory:**:
    ```bash
    cd algorithm-visualizer
