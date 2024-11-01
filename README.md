@@ -10,7 +10,7 @@
 - [License](#license)
 
 ## Introduction
-The Algorithm Visualizer is a web-based application that allows users to visualize various algorithms in an interactive way. Users can select an algorithm and see how it works step-by-step, making it a valuable educational tool for students and anyone interested in learning algorithms.
+The Algorithm Visualizer is a web-based application that allows users to visualize various algorithms in an interactive way. Users can select an algorithm and see how it works step-by-step, making it a valuable educational tool for students and anyone interested in learning algorithms and has online compiler and a chat bot.
 
 ## Features
 - Interactive visualization of popular algorithms such as:
