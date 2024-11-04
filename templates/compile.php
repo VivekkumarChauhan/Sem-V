@@ -1,7 +1,7 @@
 <?php
 // JDoodle API Credentials
-$clientId = "f552328fe9ab0e634719463c740914b3";     // Replace with your JDoodle client ID
-$clientSecret = "c45dae24d2f6bb8f7fca215ad4a9ff938d1a8c1886a7101f220115559926ef45"; // Replace with your JDoodle client secret
+$clientId = "";     // Replace with your JDoodle client ID
+$clientSecret = ""; // Replace with your JDoodle client secret
 
 // Get the posted data from the JavaScript fetch request
 $input = json_decode(file_get_contents('php://input'), true);
